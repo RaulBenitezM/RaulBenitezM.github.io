@@ -9,3 +9,15 @@ h1 {
 .t4 {
     color: green;
 }
+
+#p1 b {
+    color: orangered;
+}
+
+#p2 b {
+    color: darkturquoise;
+}
+
+#p3 b {
+    color: yellowgreen;
+}
