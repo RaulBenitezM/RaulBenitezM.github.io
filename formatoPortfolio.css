@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+h1#tituloNombre {
+    color: blue;
+}
+
+h4 {
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+h2 {
+    text-align: center;
+    color: crimson;
+}
+
+div#sobreMi {
+    text-align: center;
+}
+
+div#sobreMi table {
+    margin: 0 auto;
+}
+
+div#trabajos {
+    text-align: center;
+}
+
+div#trabajos div h3{
+    font-size: 22px;
+}
+
+div#trabajos div a{
+    color: blue;
+}
